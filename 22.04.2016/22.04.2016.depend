@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1461324703 source:c:\users\stefan\desktop\probleme la info\22.04.2016\easyquery.cpp
+	<fstream>
+	<iostream>
+
+1461324901 source:c:\users\stefan\desktop\probleme la info\22.04.2016\dfasfdio.cpp
+	<fstream>
+	<iostream>
+
+1461327271 source:c:\users\stefan\desktop\probleme la info\22.04.2016\control2.cpp
+	<fstream>
+	<algorithm>
+
+1461330776 source:c:\users\stefan\desktop\probleme la info\22.04.2016\poza.cpp
+	<iostream>
+
+1461336927 source:c:\users\stefan\desktop\probleme la info\22.04.2016\eroziune.cpp
+	<iostream>
+
+1461341740 source:c:\users\stefan\desktop\probleme la info\22.04.2016\matrice_spirala.cpp
+	<fstream>
+
+1461342371 source:c:\users\stefan\desktop\probleme la info\22.04.2016\spirala.cpp
+	<fstream>
+
+1461343250 source:c:\users\stefan\desktop\probleme la info\22.04.2016\spirala1.cpp
+	<fstream>
+	<cmath>
+
