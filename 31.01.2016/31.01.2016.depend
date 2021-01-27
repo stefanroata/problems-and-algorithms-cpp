@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1454239381 source:c:\users\stefan\desktop\probleme la info\31.01.2016\sortminmax.cpp
+	<iostream>
+	<algorithm>
+
+1454241194 source:c:\users\stefan\desktop\probleme la info\31.01.2016\sortpp.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
+1454242809 source:c:\users\stefan\desktop\probleme la info\31.01.2016\fact1.cpp
+	<iostream>
+
+1454243538 source:c:\users\stefan\desktop\probleme la info\31.01.2016\fact2.cpp
+	<iostream>
+
+1454274321 source:c:\users\stefan\desktop\probleme la info\31.01.2016\nfact2.cpp
+	<iostream>
+
+1454274840 source:c:\users\stefan\desktop\probleme la info\31.01.2016\nrdiv.cpp
+	<fstream>
+
+1454275869 source:c:\users\stefan\desktop\probleme la info\31.01.2016\nrdiv2.cpp
+	<fstream>
+
+1454279221 source:c:\users\stefan\desktop\probleme la info\31.01.2016\sortare.cpp
+	<fstream>
+	<algorithm>
+
+1454279526 source:c:\users\stefan\desktop\probleme la info\31.01.2016\halfsort.cpp
+	<fstream>
+	<algorithm>
+
+1454279917 source:c:\users\stefan\desktop\probleme la info\31.01.2016\sortcif.cpp
+	<fstream>
+	<algorithm>
+
+1454280297 source:c:\users\stefan\desktop\probleme la info\31.01.2016\sortcif2.cpp
+	<fstream>
+	<algorithm>
+
+1454280811 source:c:\users\stefan\desktop\probleme la info\31.01.2016\halfsort2.cpp
+	<fstream>
+	<algorithm>
+
+1454281362 source:c:\users\stefan\desktop\probleme la info\31.01.2016\sort2.cpp
+	<fstream>
+	<algorithm>
+
+1454282028 source:c:\users\stefan\desktop\probleme la info\31.01.2016\lipsa.cpp
+	<fstream>
+
