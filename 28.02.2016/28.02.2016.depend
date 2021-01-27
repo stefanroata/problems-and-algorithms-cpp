@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1456667821 source:c:\users\stefan\desktop\probleme la info\28.02.2016\triunghiuri1.cpp
+	<iostream>
+	<algorithm>
+
+1456669320 source:c:\users\stefan\desktop\probleme la info\28.02.2016\vraja.cpp
+	<iostream>
+	<cmath>
+
+1456671514 source:c:\users\stefan\desktop\probleme la info\28.02.2016\stergeri.cpp
+	<iostream>
+
+1456997005 source:c:\users\stefan\desktop\probleme la info\28.02.2016\cmmnr.cpp
+	<iostream>
+
+1457183860 source:c:\users\stefan\desktop\probleme la info\28.02.2016\produs2.cpp
+	<fstream>
+
