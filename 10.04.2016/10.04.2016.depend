@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1460302291 source:c:\users\stefan\desktop\probleme la info\10.04.2016\sortare_divizori.cpp
+	<fstream>
+
+1460303315 source:c:\users\stefan\desktop\probleme la info\10.04.2016\arhitectura2.cpp
+	<fstream>
+
+1460306951 source:c:\users\stefan\desktop\probleme la info\10.04.2016\numere15.cpp
+	<iostream>
+
+1460309067 source:c:\users\stefan\desktop\probleme la info\10.04.2016\numarlipsa.cpp
+	<iostream>
+	<algorithm>
+
+1460310223 source:c:\users\stefan\desktop\probleme la info\10.04.2016\interclasare.cpp
+	<fstream>
+
+1460312274 source:c:\users\stefan\desktop\probleme la info\10.04.2016\norocoase.cpp
+	<fstream>
+
+1460312797 source:c:\users\stefan\desktop\probleme la info\10.04.2016\max_suma.cpp
+	<fstream>
+
