@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1457610622 source:c:\users\stefan\desktop\probleme la info\10.03.2016\defrag.cpp
+	<fstream>
+
+1457615288 source:c:\users\stefan\desktop\probleme la info\10.03.2016\arc.cpp
+	<fstream>
+
+1457628571 source:c:\users\stefan\desktop\probleme la info\10.03.2016\iceberg.cpp
+	<fstream>
+
+1457630484 source:c:\users\stefan\desktop\probleme la info\10.03.2016\decodificare.cpp
+	<fstream>
+
+1457639180 source:c:\users\stefan\desktop\probleme la info\10.03.2016\matrice6.cpp
+	<fstream>
+
+1457640369 source:c:\users\stefan\desktop\sir.cpp
+	<iostream>
+
