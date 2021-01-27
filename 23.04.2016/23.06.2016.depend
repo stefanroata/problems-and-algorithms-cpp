@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461410363 source:c:\users\stefan\desktop\probleme la info\23.06.2016\main.cpp
+	<iostream>
+
+1461416900 source:c:\users\stefan\desktop\probleme la info\23.06.2016\chibrituri.cpp
+	<fstream>
+
