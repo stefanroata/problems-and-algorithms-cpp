@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1458121923 source:c:\users\stefan\desktop\probleme la info\16.03.2016\main.cpp
+	<fstream>
+
+1458122561 source:c:\users\stefan\desktop\probleme la info\16.03.2016\comori.cpp
+	<fstream>
+
+1458122899 source:c:\users\stefan\desktop\probleme la info\16.03.2016\daruri.cpp
+	<fstream>
+	<algorithm>
+
+1458123330 source:c:\users\stefan\desktop\probleme la info\16.03.2016\conturi.cpp
+	<fstream>
+
