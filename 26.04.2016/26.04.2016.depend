@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1461678448 source:c:\users\stefan\desktop\probleme la info\26.04.2016\martisoare.cpp
+	<fstream>
+
+1461680689 source:c:\users\stefan\desktop\probleme la info\26.04.2016\piramide.cpp
+	<fstream>
+
+1461682138 source:c:\users\stefan\desktop\probleme la info\26.04.2016\magic.cpp
+	<fstream>
+	<cstring>
+
+1461684037 source:c:\users\stefan\desktop\probleme la info\26.04.2016\zone1.cpp
+	<fstream>
+	<algorithm>
+
+1461690689 source:c:\users\stefan\desktop\probleme la info\26.04.2016\copaci1.cpp
+	<fstream>
+
+1461691082 source:c:\users\stefan\desktop\probleme la info\26.04.2016\marcare.cpp
+	<fstream>
+
