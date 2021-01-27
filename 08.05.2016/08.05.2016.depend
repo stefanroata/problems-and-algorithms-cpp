@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462734347 source:c:\users\stefan\desktop\probleme la info\08.05.2016\cabina.cpp
+	<fstream>
+
+1462735015 source:c:\users\stefan\desktop\probleme la info\08.05.2016\criptmat.cpp
+	<fstream>
+	<cstring>
+
+1462736761 source:c:\users\stefan\desktop\probleme la info\08.05.2016\ants.cpp
+	<cstdio>
+
