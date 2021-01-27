@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462397249 source:c:\users\stefan\desktop\probleme la info\04.05.2016\main.cpp
+	<fstream>
+
+1462400728 source:c:\users\stefan\desktop\probleme la info\04.05.2016\perechi2.cpp
+	<fstream>
+	<algorithm>
+

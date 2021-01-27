@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1457206293 source:c:\users\stefan\desktop\probleme la info\05.03.2016\main.cpp
+	<fstream>
+
+1457186071 source:c:\users\stefan\desktop\probleme la info\05.03.2016\produs2.cpp
+	<fstream>
+
+1457208325 source:c:\users\stefan\desktop\probleme la info\05.03.2016\memory001.cpp
+	<fstream>
+	<climits>
+
+1457211338 source:c:\users\stefan\desktop\probleme la info\05.03.2016\alo.cpp
+	<fstream>
+
+1457211707 source:c:\users\stefan\desktop\probleme la info\05.03.2016\siruri1.cpp
+	<fstream>
+

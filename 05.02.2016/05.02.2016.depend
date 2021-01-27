@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1454665270 source:c:\users\stefan\desktop\probleme la info\05.02.2016\nrsufix.cpp
+	<fstream>
+
+1454667093 source:c:\users\stefan\desktop\probleme la info\05.02.2016\fibonacci.cpp
+	<iostream>
+	<cmath>
+
+1454670658 source:c:\users\stefan\desktop\probleme la info\05.02.2016\bazab.cpp
+	<iostream>
+
