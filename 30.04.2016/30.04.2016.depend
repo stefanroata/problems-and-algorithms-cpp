@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1462013861 source:c:\users\stefan\desktop\probleme la info\30.04.2016\imprimanta.cpp
+	<fstream>
+
+1462019296 source:c:\users\stefan\desktop\probleme la info\30.04.2016\munte.cpp
+	<fstream>
+
+1462021189 source:c:\users\stefan\desktop\probleme la info\30.04.2016\schi.cpp
+	<fstream>
+
+1462022833 source:c:\users\stefan\desktop\probleme la info\30.04.2016\patrat.cpp
+	<fstream>
+
+1462034635 source:c:\users\stefan\desktop\probleme la info\30.04.2016\submit.cpp
+	<fstream>
+
+1462035950 source:c:\users\stefan\desktop\probleme la info\30.04.2016\loto.cpp
+	<fstream>
+	<algorithm>
+
