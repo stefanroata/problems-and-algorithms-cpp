@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1455969304 source:c:\users\stefan\desktop\probleme la info\20.02.2016\reducere.cpp
+	<fstream>
+
+1455970017 source:c:\users\stefan\desktop\probleme la info\20.02.2016\secvente1.cpp
+	<iostream>
+
+1455975522 source:c:\users\stefan\desktop\probleme la info\20.02.2016\secvk.cpp
+	<fstream>
+	<climits>
+
+1455976487 source:c:\users\stefan\desktop\probleme la info\20.02.2016\secvmax.cpp
+	<fstream>
+
+1455977298 source:c:\users\stefan\desktop\probleme la info\20.02.2016\secvcresc.cpp
+	<fstream>
+
+1455979389 source:c:\users\stefan\desktop\probleme la info\20.02.2016\sumainsecv.cpp
+	<fstream>
+
+1455980038 source:c:\users\stefan\desktop\probleme la info\20.02.2016\secvente.cpp
+	<fstream>
+
+1455980559 source:c:\users\stefan\desktop\probleme la info\20.02.2016\sumesecv.cpp
+	<fstream>
+
+1455981181 source:c:\users\stefan\desktop\probleme la info\20.02.2016\mars.cpp
+	<fstream>
+
+1455983003 source:c:\users\stefan\desktop\probleme la info\20.02.2016\secventa.cpp
+	<fstream>
+
+1455983346 source:c:\users\stefan\desktop\probleme la info\20.02.2016\oglidiri.cpp
+	<fstream>
+
+1455984586 source:c:\users\stefan\desktop\probleme la info\20.02.2016\secvsummax.cpp
+	<fstream>
+	<climits>
+
+1456001487 source:c:\users\stefan\desktop\probleme la info\20.02.2016\baza16.cpp
+	<iostream>
+
+1456002094 source:c:\users\stefan\desktop\probleme la info\20.02.2016\numere8.cpp
+	<fstream>
+
