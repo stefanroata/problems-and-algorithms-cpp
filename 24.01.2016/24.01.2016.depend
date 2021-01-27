@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1453641780 source:c:\users\stefan\desktop\24.01.2016\overflow.cpp
+	<iostream>
+
+1453842253 source:c:\users\stefan\desktop\24.01.2016\p1.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1453936400 source:c:\users\stefan\desktop\24.01.2016\cifre.cpp
+	<iostream>
+
