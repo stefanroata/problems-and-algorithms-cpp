@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1455827578 source:c:\users\stefan\desktop\probleme la info\18.02.2016\nrsecv.cpp
+	<iostream>
+
+1455832497 source:c:\users\stefan\desktop\probleme la info\18.02.2016\ksecv.cpp
+	<fstream>
+
+1455834174 source:c:\users\stefan\desktop\probleme la info\18.02.2016\ksecv1.cpp
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460895980 source:c:\users\stefan\desktop\probleme la info\17.04.2016\cifra1.cpp
+	<iostream>
+
+1460896894 source:c:\users\stefan\desktop\probleme la info\17.04.2016\cifra.cpp
+	<iostream>
+	<algorithm>
+
