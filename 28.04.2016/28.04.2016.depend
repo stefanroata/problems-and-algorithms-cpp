@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1461842067 source:c:\users\stefan\desktop\probleme la info\28.04.2016\sir5.cpp
+	<fstream>
+	<algorithm>
+
+1461845567 source:c:\users\stefan\desktop\probleme la info\28.04.2016\galbeni.cpp
+	<fstream>
+
+1461847390 source:c:\users\stefan\desktop\probleme la info\28.04.2016\cladiri.cpp
+	<fstream>
+

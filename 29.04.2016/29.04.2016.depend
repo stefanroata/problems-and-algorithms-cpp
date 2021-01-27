@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461921578 source:c:\users\stefan\desktop\probleme la info\29.04.2016\compar.cpp
+	<fstream>
+	<cstring>
+
+1461938351 source:c:\users\stefan\desktop\probleme la info\29.04.2016\unific.cpp
+	<fstream>
+	<algorithm>
+
