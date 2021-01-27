@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457867782 source:c:\users\stefan\downloads\vl_9_0211.cpp
+	<fstream>
+	<algorithm>
+
+1457876678 source:c:\users\stefan\desktop\probleme la info\oji\genmat16.cpp
+	<iostream>
+

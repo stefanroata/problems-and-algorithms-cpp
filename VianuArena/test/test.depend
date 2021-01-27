@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1454702140 source:c:\users\stefan\desktop\probleme la info\vianuarena\test\permutari.cpp
+	<fstream>
+	<algorithm>
+
+1454760072 source:c:\users\stefan\desktop\probleme la info\vianuarena\test\permfix.cpp
+	<fstream>
+	<algorithm>
+
+1454762162 source:c:\users\stefan\desktop\probleme la info\vianuarena\test\cifra1.cpp
+	<fstream>
+	<climits>
+
+1454762649 source:c:\users\stefan\desktop\probleme la info\vianuarena\test\nenepatrat.cpp
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460819060 source:c:\users\stefan\desktop\probleme la info\oji2016_5\palindrom.cpp
+	<fstream>
+	<algorithm>
+
+1460820852 source:c:\users\stefan\desktop\probleme la info\oji2016_5\colier.cpp
+	<fstream>
+

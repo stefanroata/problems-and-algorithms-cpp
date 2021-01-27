@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1460279550 source:c:\users\stefan\desktop\probleme la info\algoritmiada\comisia.cpp
+	<fstream>
+	<algorithm>
+
+1460283000 source:c:\users\stefan\desktop\probleme la info\algoritmiada\cuplaje.cpp
+	<fstream>
+
+1460285771 source:c:\users\stefan\desktop\probleme la info\algoritmiada\numerologie.cpp
+	<fstream>
+	<algorithm>
+
