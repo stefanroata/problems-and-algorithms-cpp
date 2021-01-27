@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461167759 source:c:\users\stefan\desktop\probleme la info\20.04.2016\robinson.cpp
+	<fstream>
+
+1461168273 source:c:\users\stefan\desktop\probleme la info\20.04.2016\centrale.cpp
+	<fstream>
+
+1461168988 source:c:\users\stefan\desktop\probleme la info\20.04.2016\degrade.cpp
+	<fstream>
+	<cstring>
+
+1461170023 source:c:\users\stefan\desktop\probleme la info\20.04.2016\interviu.cpp
+	<fstream>
+
+1461171422 source:c:\users\stefan\desktop\probleme la info\20.04.2016\porumb.cpp
+	<fstream>
+

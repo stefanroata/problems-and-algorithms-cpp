@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1456086804 source:c:\users\stefan\desktop\probleme la info\21.02.2016\cifre4.cpp
+	<iostream>
+
+1456087215 source:c:\users\stefan\desktop\probleme la info\21.02.2016\ciffrecv.cpp
+	<fstream>
+
+1456087620 source:c:\users\stefan\desktop\probleme la info\21.02.2016\nrlipsa.cpp
+	<fstream>
+
+1456088722 source:c:\users\stefan\desktop\probleme la info\21.02.2016\cifreord.cpp
+	<fstream>
+	<algorithm>
+
+1456089343 source:c:\users\stefan\desktop\probleme la info\21.02.2016\cifreord1.cpp
+	<fstream>
+	<algorithm>
+
+1456089915 source:c:\users\stefan\desktop\probleme la info\21.02.2016\maxcif.cpp
+	<fstream>
+
+1456090342 source:c:\users\stefan\desktop\probleme la info\21.02.2016\unice.cpp
+	<fstream>
+

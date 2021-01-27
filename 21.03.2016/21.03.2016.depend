@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1458592039 source:c:\users\stefan\desktop\probleme la info\21.03.2016\multimi.cpp
+	<fstream>
+
+1458592644 source:c:\users\stefan\desktop\probleme la info\21.03.2016\gardul.cpp
+	<fstream>
+	<algorithm>
+
+1458593120 source:c:\users\stefan\desktop\probleme la info\21.03.2016\triplu.cpp
+	<fstream>
+
+1458593496 source:c:\users\stefan\desktop\probleme la info\21.03.2016\tema.cpp
+	<fstream>
+
+1458593894 source:c:\users\stefan\desktop\probleme la info\21.03.2016\barca.cpp
+	<fstream>
+
+1458594239 source:c:\users\stefan\desktop\probleme la info\21.03.2016\ingerasi.cpp
+	<fstream>
+	<algorithm>
+
+1458594777 source:c:\users\stefan\desktop\probleme la info\21.03.2016\arme.cpp
+	<fstream>
+	<algorithm>
+
+1458595217 source:c:\users\stefan\desktop\probleme la info\21.03.2016\tort.cpp
+	<fstream>
+	<algorithm>
+
+1458595785 source:c:\users\stefan\desktop\probleme la info\21.03.2016\vraji.cpp
+	<fstream>
+	<algorithm>
+
+1458597037 source:c:\users\stefan\desktop\probleme la info\21.03.2016\scara.cpp
+	<fstream>
+	<cmath>
+
