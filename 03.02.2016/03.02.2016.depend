@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1454493538 source:c:\users\stefan\desktop\probleme la info\03.02.2016\puterik.cpp
+	<fstream>
+	<algorithm>
+
+1454533280 source:c:\users\stefan\desktop\probleme la info\03.02.2016\siruri1.cpp
+	<fstream>
+
+1454535385 source:c:\users\stefan\desktop\probleme la info\03.02.2016\ordsume.cpp
+	<fstream>
+	<algorithm>
+
+1454536030 source:c:\users\stefan\desktop\probleme la info\03.02.2016\crb.cpp
+	<fstream>
+	<algorithm>
+

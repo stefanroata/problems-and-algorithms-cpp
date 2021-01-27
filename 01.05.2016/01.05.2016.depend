@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1462107813 source:c:\users\stefan\desktop\probleme la info\01.05.2016\carte.cpp
+	<fstream>
+
+1462108886 source:c:\users\stefan\desktop\probleme la info\01.05.2016\livada.cpp
+	<fstream>
+	<algorithm>
+
+1462134647 source:c:\users\stefan\desktop\probleme la info\01.05.2016\cirese1.cpp
+	<fstream>
+
+1462135831 source:c:\users\stefan\desktop\probleme la info\01.05.2016\linvolegale.cpp
+	<fstream>
+

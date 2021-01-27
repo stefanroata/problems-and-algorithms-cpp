@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1459606883 source:c:\users\stefan\desktop\probleme la info\02.04.2016\verif_progresie.cpp
+	<iostream>
+	<algorithm>
+
+1459610244 source:c:\users\stefan\desktop\probleme la info\02.04.2016\devt.cpp
+	<fstream>
+
+1459615329 source:c:\users\stefan\desktop\probleme la info\02.04.2016\divizori1.cpp
+	<fstream>
+	<algorithm>
+
+1459616096 source:c:\users\stefan\desktop\probleme la info\02.04.2016\genmat23.cpp
+	<iostream>
+
